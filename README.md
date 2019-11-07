@@ -11,3 +11,5 @@ The project will be implemented using web language and may include JavaScript fr
 *Este projeto é sobre uma rede social de listas de presente para pessoas publicarem uma lista de itens que gostariam de ganhar, e se o usuário não encontrar a pessoa desejada, ele pode receber algumas sugestões baseado em perguntas sobre o perfil da pessoa.*
 
 *O projeto será implementado em linguagem web, podendo incluir frameworks JavaScript como Angular e React.*
+
+![Figure 1: Register page](img/register.png?raw=true "Register page")
