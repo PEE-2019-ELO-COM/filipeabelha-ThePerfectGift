@@ -13,3 +13,16 @@ The project will be implemented using web language and may include JavaScript fr
 *O projeto será implementado em linguagem web, podendo incluir frameworks JavaScript como Angular e React.*
 
 ![Figure 1: Register page](img/register.png?raw=true "Register page")
+Figure 1: Register page
+
+![Figure 2: Home page](img/home.png "Home page")
+Figure 2: Home page
+
+![Figure 3: Users page](img/users.png "Users")
+Figure 3: Users page
+
+![Figure 4: Profile page](img/myprofile.png "Profile page")
+Figure 4: Profile page
+
+![Figure 5: Profile of other people](img/otherprofile.png "Profile of other people")
+Figure 5: Profile of other people
