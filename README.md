@@ -10,28 +10,38 @@ The project will be implemented using HTML/CSS, PHP and MySQL.
 <img src="img/readme_register.png" width="658" height="370">
 <br>
 Figure 1: Register page
+<br>
+<br>
 </p>
 
 <p align="center">
 <img src="img/readme_home.png" width="658" height="370">
 <br>
 Figure 2: Home page
+<br>
+<br>
 </p>
 
 <p align="center">
 <img src="img/readme_users.png" width="658" height="370">
 <br>
 Figure 3: Users page
+<br>
+<br>
 </p>
 
 <p align="center">
 <img src="img/readme_myprofile.png" width="658" height="370">
 <br>
 Figure 4: Profile page
+<br>
+<br>
 </p>
 
 <p align="center">
 <img src="img/readme_otherprofile.png" width="658" height="370">
 <br>
 Figure 5: Profile of other people
+<br>
+<br>
 </p>
