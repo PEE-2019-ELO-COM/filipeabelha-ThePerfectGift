@@ -7,26 +7,26 @@ This project is about a gift list social network for people to publish a list of
 The project will be implemented using HTML/CSS, PHP and MySQL.
 
 <p align="center">
-<img src="img/readme_register.png">
+<img src="img/readme_register.png" width="658" height="370">
 Figure 1: Register page
 </p>
 
 <p align="center">
-<img src="img/readme_home.png">
+<img src="img/readme_home.png" width="658" height="370">
 Figure 2: Home page
 </p>
 
 <p align="center">
-<img src="img/readme_users.png">
+<img src="img/readme_users.png" width="658" height="370">
 Figure 3: Users page
 </p>
 
 <p align="center">
-<img src="img/readme_myprofile.png">
+<img src="img/readme_myprofile.png" width="658" height="370">
 Figure 4: Profile page
 </p>
 
 <p align="center">
-<img src="img/readme_otherprofile.png">
+<img src="img/readme_otherprofile.png" width="658" height="370">
 Figure 5: Profile of other people
 </p>
