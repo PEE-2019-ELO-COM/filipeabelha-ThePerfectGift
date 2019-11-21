@@ -17,6 +17,7 @@ Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the proj
 
 - [ ] User ability to create a list of preferred gifts 
 - [ ] Get gift suggestions for an unregistered or not found user
+- [ ] PT-BR version
 
 ### Next UX features
 
