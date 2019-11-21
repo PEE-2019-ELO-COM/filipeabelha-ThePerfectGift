@@ -11,7 +11,7 @@ Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the proj
 ### To-Do List
 
 - [x] Basic code documentation
-- [ ] Create an Entity Relationship Diagram (ERD)
+- [x] Create an Entity Relationship Diagram (ERD)
 
 ### Next core features
 
@@ -65,6 +65,14 @@ Figure 4: Profile page
 <img src="img/readme_otherprofile.png" width="658" height="370">
 <br>
 Figure 5: Profile of other people
+<br>
+<br>
+</p>
+
+<p align="center">
+<img src="img/erd.png" width="410" height="221">
+<br>
+Figure 6: Entity Relationship Diagram (ERD)
 <br>
 <br>
 </p>
