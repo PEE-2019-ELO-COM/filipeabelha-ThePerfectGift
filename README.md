@@ -9,22 +9,22 @@ It uses HTML/CSS, PHP and MySQL.
 ### To-Do List
 
 - [x] Basic code documentation
-- [] Create an Entity Relationship Diagram (ERD)
+- [ ] Create an Entity Relationship Diagram (ERD)
 
 ### Next core features
 
-- [] User ability to create a list of preferred gifts 
-- [] Get gift suggestions for an unregistered or not found user
+- [ ] User ability to create a list of preferred gifts 
+- [ ] Get gift suggestions for an unregistered or not found user
 
 ### Next UX features
 
-- [] Change PHP die() statements to improve UX
-- [] Ability to edit profile
-- [] Ability to reset password
+- [ ] Change PHP die() statements to improve UX
+- [ ] Ability to edit profile
+- [ ] Ability to reset password
 
 ### Next bugfixes
 
-- [] Activation e-mails not being sent
+- [ ] Activation e-mails not being sent
 
 <p align="center">
 <img src="img/readme_register.png" width="658" height="370">
