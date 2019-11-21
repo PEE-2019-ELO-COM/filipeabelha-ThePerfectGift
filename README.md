@@ -23,6 +23,7 @@ Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the proj
 - [ ] Change PHP die() statements to improve UX
 - [ ] Ability to edit profile
 - [ ] Ability to reset password
+- [ ] Ability to delete/deactivate account
 - [ ] PT-BR version
 - [ ] Mobile version
 
