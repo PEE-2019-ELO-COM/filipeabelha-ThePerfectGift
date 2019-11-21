@@ -6,7 +6,7 @@ This project is about a gift list social network for people to publish a list of
 
 It uses HTML/CSS, PHP and MySQL.
 
-Visit our <a href="http://www.filipeabelha.com/theperfectgift">homepage</a>!
+Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the project's homepage</a>!
 
 ### To-Do List
 
