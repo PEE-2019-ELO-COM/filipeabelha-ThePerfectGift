@@ -70,7 +70,7 @@ Figure 5: Profile of other people
 </p>
 
 <p align="center">
-<img src="img/erd.png" width="410" height="221">
+<img src="img/erd.png" width="615" height="331">
 <br>
 Figure 6: Entity Relationship Diagram (ERD)
 <br>
