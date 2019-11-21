@@ -4,7 +4,27 @@ Do you want to impress a dear person with a special gift and have no idea of wha
 
 This project is about a gift list social network for people to publish a list of items he wants to earn, and if the user does not find the desired person, he can see some suggestions based on questions about the person's profile.
 
-The project will be implemented using HTML/CSS, PHP and MySQL.
+It uses HTML/CSS, PHP and MySQL.
+
+### To-Do List
+
+- [x] Basic code documentation
+- [] Create an Entity Relationship Diagram (ERD)
+
+### Next core features
+
+- [] User ability to create a list of preferred gifts 
+- [] Get gift suggestions for an unregistered or not found user
+
+### Next UX features
+
+- [] Change PHP die() statements to improve UX
+- [] Ability to edit profile
+- [] Ability to reset password
+
+### Next bugfixes
+
+- [] Activation e-mails not being sent
 
 <p align="center">
 <img src="img/readme_register.png" width="658" height="370">
