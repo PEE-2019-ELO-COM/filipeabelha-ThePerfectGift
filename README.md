@@ -29,53 +29,44 @@ Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the proj
 
 - [ ] Activation e-mails not being sent
 
-<p align="center">
-<img src="img/readme_register.png" width="658" height="370">
-<br>
-Figure 1: Register page
-<br>
-<br>
-</p>
-
-<p align="center">
-<img src="img/readme_home.png" width="658" height="370">
-<br>
-Figure 2: Home page
-<br>
-<br>
-</p>
-
-<p align="center">
-<img src="img/readme_users.png" width="658" height="370">
-<br>
-Figure 3: Users page
-<br>
-<br>
-</p>
-
-<p align="center">
-<img src="img/readme_myprofile.png" width="658" height="370">
-<br>
-Figure 4: Profile page
-<br>
-<br>
-</p>
-
-<p align="center">
-<img src="img/readme_otherprofile.png" width="658" height="370">
-<br>
-Figure 5: Profile of other people
-<br>
-<br>
-</p>
+### Entity Relationship Diagram (ERD)
 
 <p align="center">
 <img src="img/erd.png" width="615" height="331">
-<br>
-Figure 6: Entity Relationship Diagram (ERD)
-<br>
-<br>
 </p>
 
-## License
+### Screenshots
+
+## Register page
+
+<p align="center">
+<img src="img/readme_register.png" width="658" height="370">
+</p>
+
+## Home page
+
+<p align="center">
+<img src="img/readme_home.png" width="658" height="370">
+</p>
+
+## Users page
+
+<p align="center">
+<img src="img/readme_users.png" width="658" height="370">
+</p>
+
+## Profile page
+
+<p align="center">
+<img src="img/readme_myprofile.png" width="658" height="370">
+</p>
+
+## Other people's profile
+
+<p align="center">
+<img src="img/readme_otherprofile.png" width="658" height="370">
+</p>
+
+
+### License
 This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
