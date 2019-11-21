@@ -6,6 +6,8 @@ This project is about a gift list social network for people to publish a list of
 
 It uses HTML/CSS, PHP and MySQL.
 
+Visit our <a href="http://www.filipeabelha.com/theperfectgift">homepage</a>!
+
 ### To-Do List
 
 - [x] Basic code documentation
@@ -65,3 +67,6 @@ Figure 5: Profile of other people
 <br>
 <br>
 </p>
+
+## License
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
