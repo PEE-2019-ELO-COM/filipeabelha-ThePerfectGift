@@ -8,65 +8,65 @@ It uses HTML/CSS, PHP and MySQL.
 
 Feel free to <a href="http://www.filipeabelha.com/theperfectgift">visit the project's homepage</a>!
 
-### To-Do List
+## To-Do List
 
 - [x] Basic code documentation
 - [x] Create an Entity Relationship Diagram (ERD)
 
-### Next core features
+## Next core features
 
 - [ ] User ability to create a list of preferred gifts 
 - [ ] Get gift suggestions for an unregistered or not found user
 - [ ] PT-BR version
 
-### Next UX features
+## Next UX features
 
 - [ ] Change PHP die() statements to improve UX
 - [ ] Ability to edit profile
 - [ ] Ability to reset password
 
-### Next bugfixes
+## Next bugfixes
 
 - [ ] Activation e-mails not being sent
 
-### Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 
 <p align="center">
 <img src="img/erd.png" width="615" height="331">
 </p>
 
-### Screenshots
+## Screenshots
 
-## Register page
+### Register page
 
 <p align="center">
 <img src="img/readme_register.png" width="658" height="370">
 </p>
 
-## Home page
+### Home page
 
 <p align="center">
 <img src="img/readme_home.png" width="658" height="370">
 </p>
 
-## Users page
+### Users page
 
 <p align="center">
 <img src="img/readme_users.png" width="658" height="370">
 </p>
 
-## Profile page
+### Profile page
 
 <p align="center">
 <img src="img/readme_myprofile.png" width="658" height="370">
 </p>
 
-## Other people's profile
+### Other people's profile
 
 <p align="center">
 <img src="img/readme_otherprofile.png" width="658" height="370">
 </p>
 
 
-### License
+## License
 This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
